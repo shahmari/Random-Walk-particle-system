@@ -1,4 +1,5 @@
-### Random-particle-system
+### Simulation of mechanical Random Walk device
+
 Simulation of Random Walk system of particles in Galton Board Random Walker.
 you can see the physical device and how it works in this [YouTube video](https://www.youtube.com/watch?v=9xUBhhM4vbM).
 
